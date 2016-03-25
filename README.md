@@ -1,4 +1,5 @@
 # Mark's Android Settings
+**NOTE:** *Not tested on Windows. May screw up Windows key-mappings*
 
 ![](http://i.imgur.com/ctkCKzu.png?1)
 
